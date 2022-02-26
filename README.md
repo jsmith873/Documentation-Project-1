@@ -1,3 +1,2 @@
-# Project 1
-## By Jonas Smith
-Documentation for Project 1 in Data Visualization
+# Project 1 By Jonas Smith 
+Design Documentation for Project 1 in INFO H517 Data Visualization. 
