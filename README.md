@@ -20,4 +20,4 @@ Overall, the two biggest questions that can be answered from these visualization
 
 ![Screen Shot 2022-02-27 at 12 11 52 PM](https://user-images.githubusercontent.com/54475489/155892444-76e68a50-5124-4144-9f7b-390fde73c8b1.jpg)
 
-I have definitely learned a lot about D3 throughout this process and look forward to developing my skills further as we progress. 
+I have definitely learned a lot about D3 throughout this process and look forward to developing my skills further as the semester continues!
