@@ -15,3 +15,9 @@ Looking specifically at the street map, I began with drawing the points connecte
 Next, I moved on to the timeline graph where I placed a scaled y-axis and chose not to add an x-axis as I felt it made the visualization feel less interactive and over cluttered. I also made this graph using colors in IBM's color blind color palette linked above. When you hover over a single bar in the graph, it will change color and a title card will appear next to the cursor contain the count and day that the individual bar represents. I was unable to tie deaths on the map of London to deaths by day in the timeline graph as the two data files were not linked in any way. 
 
 I chose to make the age and gender breakdown graphs all use IBM color blind color palette compliant and each categorical grouping has a different color. First I felt like this added more color to the screen and made it easier at first glance to tell these were categorical groupings. Similar to the timeline graph I chose to use a hover title card feature that displays information about the individual bars. 
+
+Overall, the two biggest questions that can be answered from these visualizations are "Did more men or women die from the 1854 Cholera outbreak in London?" and "What segment of the population is most likely to die?" From the still image below, we can see that while women account for slightly more Cholera deaths than men, it is not at a rate that we could deduce women have a higher risk of death. We can see, however, that individuals aged 0-10 and individuals aged greater than 80 years old have the highest chance of death from Cholera infection. < br/>
+
+![Screen Shot 2022-02-27 at 12 11 52 PM](https://user-images.githubusercontent.com/54475489/155892444-76e68a50-5124-4144-9f7b-390fde73c8b1.jpg)
+
+I have definitely learned a lot about D3 throughout this process and look forward to developing my skills further as we progress. 
