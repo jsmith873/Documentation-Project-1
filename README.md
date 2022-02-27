@@ -2,4 +2,4 @@
 Design Documentation for Project 1 in INFO H517 Data Visualization. <br />
 
 You can see the YouTube video showcasing how to use this visualization here: <br />
-https://youtu.be/zA9nTEFmsqs
+[YouTube Video](https://youtu.be/zA9nTEFmsqs)
